@@ -166,7 +166,7 @@ namespace Quest {
 			}
 			else if (answer6 == 2) {
 				Console.ForegroundColor = ConsoleColor.DarkGreen;
-				Console.WriteLine("Победа!");
+				Console.WriteLine("Ура!!! Победа! Ты успешно справился со всеми испытаниями и спас принцессу!");
 				Console.ForegroundColor = ConsoleColor.Gray;
 				Console.ReadLine();
 			}
